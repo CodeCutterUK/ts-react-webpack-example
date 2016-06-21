@@ -7,8 +7,9 @@
         "target": "es5",
         "jsx": "react"
     },
-    "files": [
+    "files": [        
         "./typings/index.d.ts",
+        "./typings-custom/index.d.ts",
         "./src/components/Hello.tsx",
         "./src/index.tsx"
     ]

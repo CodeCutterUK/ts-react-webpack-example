@@ -1,0 +1,1 @@
+/// <reference path="react-fetch/index.d.ts" />
